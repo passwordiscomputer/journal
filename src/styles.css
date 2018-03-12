@@ -1,0 +1,58 @@
+html {
+    background: url('http://kb4images.com/images/sick-wallpapers/37166417-sick-wallpapers.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Press Start 2P', cursive;
+}
+
+input, textarea, label, button {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+div {
+  display: inline-block;
+  text-overflow: clip;
+}
+
+
+input, textarea {
+  background-color: black;
+  color: #7DDFFC;
+  font-size: 2vw;
+}
+body, button {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3vw;
+  text-align: center;
+  -webkit-text-stroke: 1px black;
+  color: #7DDFFC;
+  text-shadow:
+    3px 3px 0 #000;
+    background-color: transparent;
+}
+
+body h1{
+  color: #181818;
+}
+
+button {
+  border-style: none;
+}
+
+h1 {
+  text-shadow: 3px 3px 12px #7DDFFC;
+}
+button:hover {
+  text-align: center;
+  color: #000;
+  text-shadow: 3px 3px 12px #7DDFFC;
+}
+
+#journalEntry, #results {
+  background-color: black;
+  font-size: 1vw;
+}
